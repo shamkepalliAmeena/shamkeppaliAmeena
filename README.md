@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusiast, always eager to learn new things and contribute to exciting projects. Feel free to explore my repositories and reach out if you want to collaborate!
 
-🚀 About Me
+🚀 About Me:
 
 🔭 I’m currently working on web applications, open-source contributions, and machine learning projects.
 
