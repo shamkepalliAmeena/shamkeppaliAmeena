@@ -1,4 +1,4 @@
-Hi there, I'm Ankit Khanduri
+<h1 align="center">Hi 👋, I'm Ameena</h1> 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusiast, always eager to learn new things and contribute to exciting projects. Feel free to explore my repositories and reach out if you want to collaborate!
 
 🚀 About Me
@@ -8,25 +8,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 🤔 I’m open to discussing best practices in software development, AI, and cloud infrastructure..
 📫 Reach out to me via: (ameenashamkepalli@gmail.com)
 ⚡ Fun fact: I love to travel and visit tech conferences around the world!🌍
-
-💬 Let's Connect
-Feel free to reach out to me on:
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Ameena</h1>
-
-
-- 🌱 I’m currently learning **Data Science.**
-
-- 💬 Ask me about **Linux,DevOps,AWS,python,Microsoft Excel,Html,css**
-
-- 📫 How to reach me **ameenashamkepalli@gmail.com**
-
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
