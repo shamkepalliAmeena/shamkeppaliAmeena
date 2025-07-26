@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ameena</h1> 
+
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusiast, always eager to learn new things and contribute to exciting projects. Feel free to explore my repositories and reach out if you want to collaborate!
 
 🚀 About Me
+
 🔭 I’m currently working on web applications, open-source contributions, and machine learning projects.
+
 🌱 I’m learning more about Cloud Technologies, Devops, and Ai and ML.
+
 👯 I’m looking to collaborate on exciting open-source projects.
+
 🤔 I’m open to discussing best practices in software development, AI, and cloud infrastructure..
+
 📫 Reach out to me via: (ameenashamkepalli@gmail.com)
+
 ⚡ Fun fact: I love to travel and visit tech conferences around the world!🌍
 
 <h3 align="left">Connect with me:</h3>
